@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/earlyaccess/amiri.css);
+.ar-word{
+  font-family: 'Droid Arabic Naskh', serif;
+  font-size: 25px;
+}
+
+.highlight::after {
+    content: url(img/checkmark.gif);
+}
+
+.hideWords {
+	display: none;
+}
+
+.subject{
+  margin-left: 10px;
+}
+
+.input-text-wrong{
+  color: red;
+}
+
+.input-text-right{
+  color: green;
+}

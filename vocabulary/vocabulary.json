@@ -1,0 +1,35 @@
+[
+  {
+    "title": {"ar_title": "اَلْكَلِمَاتُ", "es_title": "Las Palabras"},
+    "words": [
+      {
+        "ar_word": "نَحِيفْ",
+        "es_word": "delgado"
+      },
+      {
+        "ar_word": "مُهَاجِرْ",
+        "es_word": "emigrante"
+      },
+      {
+        "ar_word": "مُهَنْدِسْ",
+        "es_word": "ingeniero"
+      },
+      {
+        "ar_word": "أَرَادَ",
+        "es_word": "querer"
+      },
+      {
+        "ar_word": "مُسَافِرْ",
+        "es_word": "viajero"
+      },
+      {
+        "ar_word": "شَرْقِ",
+        "es_word": "este"
+      },
+      {
+        "ar_word": "مُذَكَّرْ",
+        "es_word": "masculino"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": {"ar_title": "اَلْعَائِلَةُ", "es_title": "La Familia"},
+    "words": [
+      {
+        "ar_word": "جَدٌّ",
+        "es_word": "abuelo"
+      },
+      {
+        "ar_word": "جَدَّةٌ",
+        "es_word": "abuela"
+      },
+      {
+        "ar_word": "أَبٌ",
+        "es_word": "padre"
+      },
+      {
+        "ar_word": "أُمٌّ",
+        "es_word": "madre"
+      },
+      {
+        "ar_word": "إِبْنٌ",
+        "es_word": "hijo"
+      },
+      {
+        "ar_word": "إِبْنَتٌ",
+        "es_word": "hija"
+      },
+      {
+        "ar_word": "خَالْةٌ",
+        "es_word": "tía"
+      },
+      {
+        "ar_word": "عَمَّةٌ",
+        "es_word": "tía"
+      },
+      {
+        "ar_word": "عَمٌّ",
+        "es_word": "tío"
+      },
+      {
+        "ar_word": "خَالٌ",
+        "es_word": "tío"
+      },
+      {
+        "ar_word": "إِبْنُ آلْعَمِّ",
+        "es_word": "primo"
+      },
+      {
+        "ar_word": "إِبْنَةُ اَلْعَمِّ",
+        "es_word": "prima"
+      },
+      {
+        "ar_word": "أُخْتٌ",
+        "es_word": "hermana"
+      },
+      {
+        "ar_word": "حَفِيدٌ",
+        "es_word": "nieto"
+      },
+      {
+        "ar_word": "أَخٌ",
+        "es_word": "hermano"
+      },
+      {
+        "ar_word": "حَفِدَةٌ",
+        "es_word": "nieta"
+      }
+    ]
+  }
+]

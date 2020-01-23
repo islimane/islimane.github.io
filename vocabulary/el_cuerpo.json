@@ -1,0 +1,103 @@
+[
+  {
+    "title": {"ar_title": "اَلْكَلِمَاتُ", "es_title": "Las Palabras"},
+    "words": [
+      {
+        "ar_word": "اَلْرَّأسُ",
+        "es_word": "la cabeza"
+      },
+      {
+        "ar_word": "اَلْدِّرَاعُ",
+        "es_word": "el brazo"
+      },
+      {
+        "ar_word": "اَلْوَجْهُ",
+        "es_word": "la cara"
+      },
+      {
+        "ar_word": "اَلْرَّقَبَةُ",
+        "es_word": "el cuello"
+      },
+      {
+        "ar_word": "اَلْبَطْنُ",
+        "es_word": "la barriga"
+      },
+      {
+        "ar_word": "اَلْرُّكْبَةُ",
+        "es_word": "la rodilla"
+      },
+      {
+        "ar_word": "اَلْرِّجْلُ",
+        "es_word": "la pierna"
+      },
+      {
+        "ar_word": "اَلْأَقْدَامُ",
+        "es_word": "los pies"
+      },
+      {
+        "ar_word": "اَلْشَّعْرُ",
+        "es_word": "el cabello"
+      },
+      {
+        "ar_word": "اَلْعَيْنُ",
+        "es_word": "el ojo"
+      },
+      {
+        "ar_word": "اَلْأُذُنُ",
+        "es_word": "la oreja"
+      },
+      {
+        "ar_word": "اَلْأَسْنَانُ",
+        "es_word": "los dientes"
+      },
+      {
+        "ar_word": "اَلْأُسْبُعُ",
+        "es_word": "el dedo"
+      },
+      {
+        "ar_word": "اَلْأَهْدَابُ",
+        "es_word": "las pestañas"
+      },
+      {
+        "ar_word": "اَلْحَاجِبُ",
+        "es_word": "la ceja"
+      },
+      {
+        "ar_word": "اَلْأَنْفُ",
+        "es_word": "la nariz"
+      },
+      {
+        "ar_word": "اَلْفَمُ",
+        "es_word": "la boca"
+      },
+      {
+        "ar_word": "اَلْلِسَبُ",
+        "es_word": "la lengua"
+      },
+      {
+        "ar_word": "اَلْظِّفْرُ",
+        "es_word": "la uña"
+      },
+      {
+        "ar_word": "اَلْمِرْفَقُ",
+        "es_word": "el codo"
+      },
+      {
+        "ar_word": "اَلْكَتِفُ",
+        "es_word": "el hombro"
+      },
+      {
+        "ar_word": "اَلْظَّهْرُ",
+        "es_word": "la espalda"
+      },
+      {
+        "ar_word": "اَلْيَدُ",
+        "es_word": "la mano"
+      },
+      {
+        "ar_word": "اَلْفَخِدُ",
+        "es_word": "el muslo"
+      }
+    ]
+  }
+]
